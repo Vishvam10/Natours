@@ -36,10 +36,10 @@ A fully functional dynamic website for a virtual tour company called Natours. Bu
 # Features
 
 1. Built on web technologies like NodeJS, Express and MongoDB
-2. Follows the MVC architecture
+2. The app follows the MVC architecture and the APIs are RESTful.  
 3. Template based webpage rendering for faster speed
 4. Modern UI/UX with seamless and smooth animations
-5. Maps and many other features like geological filters are implemented in the backend 
+5. Maps and many other features like geological filters, tour sorting, aggregation pipelining, etc are implemented in the backend 
 5. Many other functionalies like :
     1. Sign up and login features for users
     2. User dashboards
