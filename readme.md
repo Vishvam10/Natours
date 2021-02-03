@@ -40,11 +40,11 @@ A fully functional dynamic website for a virtual tour company called Natours. Bu
 4. Modern UI/UX with seamless and smooth animations
 5. Maps and many other features like geological filters are implemented in the backend 
 5. Many other functionalies like :
-  1. Sign up and login features for users
-  2. User dashboards
-  3. Creation, deletion and updation of tours by admin
-  4. Creating bookings 
-  5. Payment gateway using Stripe and many more !
+    1. Sign up and login features for users
+    2. User dashboards
+    3. Creation, deletion and updation of tours by admin
+    4. Creating bookings 
+    5. Payment gateway using Stripe and many more !
 6. Protection against XSS and other known attacks
 7. URL sanitization
 8. Easy import of local data ( scripts available in the dev-data folder )
@@ -61,7 +61,8 @@ A fully functional dynamic website for a virtual tour company called Natours. Bu
  * Things like custom functions and modules are now easily understandable
  * Worked with POSTMAN ( with an advanced setup ) for API testing and got quite proficient at it
  
- **Can now create a fully functional backend for a website / webapp**
+ 
+ **Can now create a fully functional backend for a website / webapp with ease**
  
  
  
