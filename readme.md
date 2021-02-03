@@ -2,7 +2,7 @@
 
 A fully functional dynamic website for a virtual tour company called Natours. Built using NodeJS, Express and MongoDB and has a ton of features which you can view [here](#features).
 
-<p style="font-size:12px">Since, there was an issue with my deployment, the website linked above is the one we coded at the bootcamp. The domain name and the final version of the website is owned by our course instructor - Jonas Schmedtmann</p>
+<p style="font-size:50">Since, there was an issue with my deployment, the website linked above is the one we coded at the bootcamp. The domain name and the final version of the website is owned by our course instructor - Jonas Schmedtmann</p>
 
 
 **The UI :**
