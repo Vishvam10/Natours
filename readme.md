@@ -1,6 +1,6 @@
 # Natours Application
 
-A fully functional dynamic website for a virtual tour company called Natours. Built using NodeJS, Express and MongoDB. You can view its features [here](#features) 
+A fully functional dynamic website for a virtual tour company called Natours. Built using NodeJS, Express and MongoDB and has a ton of features which you can view [here](#features) 
 
 **The UI :**
 
